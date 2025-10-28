@@ -96,6 +96,3 @@ The project bridges **distributed statistics, hypothesis testing, and communicat
 * SciPy Stats Documentation: [https://docs.scipy.org/doc/scipy/reference/stats.html](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
 ---
-
-
-Do you want me to do that next?
